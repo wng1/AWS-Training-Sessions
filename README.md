@@ -1,7 +1,7 @@
 # AWS-Training-Sessions
 Sessions
 
-##Review
+## Review
 
 S3 Bucket
 Amazon Bedrock
@@ -10,3 +10,4 @@ DynamoDB
 Python Functions (Redris)
 APIs
 
+## Securing the Cloud with AWS Central Root Access Management 
